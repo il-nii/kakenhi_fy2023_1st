@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  dev:
+    image: kakenhi_202303
+    build: ./
+    environment:
+      - JEKYLL_ENV=production
+    command: bundle exec jekyll serve --force_polling --incremental --livereload --trace --host 0.0.0.0
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - $PWD:/srv/jekyll

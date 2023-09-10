@@ -1,0 +1,194 @@
+title: KAKENHI meeting FY2023
+preposition: ''
+description: >-
+  KAKENHI meeting on September 14th - 15th in AIST Tokyo Waterfront Annex building, Tokyo
+baseurl: "/kakenhi_fy2023_1st" # the subpath of your site, e.g. /blog
+url: "https://il-nii.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - .github/
+  - venv/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - screenshot.png
+  - jekyll-theme-conference.gemspec
+  - purgecss.config.js
+  - _config.example.yml
+
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+# Theme default values
+conference:
+
+  # Language
+  lang: en
+
+  # Show theme errors:
+  show_errors: True
+
+  # Navigation bar
+  navigation:
+    logo:
+      name: Inoue's Laboratory
+      img: 'IMG_INOUE.png'
+      url: 'http://research.nii.ac.jp/il/'
+    links:
+      - name: Program
+        relative_url: /program/
+      - name: Talks
+        relative_url: /talks/
+      - name: Speakers
+        relative_url: /speakers/
+      - name: Location
+        relative_url: /location/
+      # - name: Previous Editions
+      #   menu:
+      #     - name: 2020 (current)
+      #       disabled: true
+      #     - name: 2019
+      #       relative_url: /2019/
+      #     - name: 2018
+      #       relative_url: /2018/
+
+  # Link Preview for Sharing
+  link_preview:
+    # also adapt "preposition" property at top for more meaningful descriptions
+    disable: false
+    img:
+      twitter: 'twitter_preview.png'      # inside /assets/images/
+      open_graph: 'facebook_preview.png'  # inside /assets/images/
+
+  # Main landing page
+  main:
+    # logo:
+    #   img: ''
+    links:
+      - name: Program
+        relative_url: /program/
+      - name: How to get there
+        relative_url: /location/
+      # - name: Tickets
+      #   disabled: true
+      #   absolute_url: ''
+
+  # Information boxes
+  # info_bars:
+  #   - title: Welcome to the Conference Theme for Jekyll!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+
+  #       ---
+
+  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+  #   - text: This is just some random content for demonstration purposes.
+  #     color: warning
+  #     pages_only: true
+
+  # Live indications
+  # live:
+  #   date: 14.09.2023
+  #   timezone: GMT+9
+  #   stop:       2880  # in minutes
+  #   streaming:
+  #     enable: true
+  #     pause:     60  # in minutes
+  #     prepend:    5  # in minutes
+  #     extend:     5  # in minutes
+  #   demo:
+  #     enable: false
+  #     duration: 300  # in seconds
+  #     pause:     10  # in seconds
+
+  map:
+    # Initial map center point
+    home_coord: 35.61878374098537, 139.7774522828069 # 33.7306, 135.3663
+    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+    # The following do match the Bootstrap design not too badly:
+    #   - Hydda.Full
+    #   - Thunderforest.Neighbourhood
+    #   - Esri.WorldTopoMap
+    map_provider: "OpenStreetMap.DE"
+    default_zoom: 15
+
+  talks:
+    # Talk categories
+    main_categories:
+      - name: "Robust AI by Integration of KR and ML (other thing)"
+        color: primary
+      - name: Logic and Reasoning
+        color: warning
+      - name: Night Session
+        color: info
+      - name: Logic and Computation for the Real World
+        color: secondary
+      - name: Learning Programs and Equations from raw data
+        color: success
+      - name: Integration of Neural Networks and Reasoning
+        color: info
+      - name: Discussion
+        color: alert
+      - name: Break
+        color: light
+
+    # Hide icons on talk overview page
+    hide_icons: false
+
+  speakers:
+    # Show first and last name
+    show_firstname: true
+
+  location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
+    url: '/location'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page
+    map: true
+
+  program:
+    # URL of program page
+    url: '/program'
+
+    # Time steps in program table
+    time_steps: 10 # in minutes
+
+    # Show intermediary time steps (next to full hours)
+    show_alltimes: true

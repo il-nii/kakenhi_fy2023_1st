@@ -1,0 +1,16 @@
+{
+    "map": {
+        "map_provider": "OpenStreetMap.DE",
+        "home_coord": [35.61878374098537, 139.7774522828069],
+        "default_zoom": 15
+    },
+
+    
+
+    "lang": {
+        "map": {
+            "focus_conf": "Center map on conference location",
+            "focus_me": "Show my current location"
+        }
+    }
+}
