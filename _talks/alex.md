@@ -3,7 +3,7 @@ name: "Understanding Symbol Binding in Multimodal Transformers"
 speakers:
   - Alex Spies
 categories:
-  - Afternoon Session 1
+  - Afternoon Session 1 (day1)
   - Talk
 # links:
 #   - name: Recodring

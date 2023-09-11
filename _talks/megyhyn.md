@@ -3,7 +3,7 @@ name: "Preference-based Repairs of Databases and Knowledge Bases"
 speakers:
   - Meghyn Bienvenu
 categories:
-  - Learning Programs and Equations from raw data
+  - Afternoon Session 1 (day1)
   - Talk
 # links:
 #   - name: Recodring

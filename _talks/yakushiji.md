@@ -3,7 +3,7 @@ name: "Elucidating Cell Behavior under Radiation Using Machine Learning"
 speakers:
   - Ryota Yakushiji
 categories:
-  - Afternoon Session 1
+  - Afternoon Session 1 (day1)
   - Talk
 # links:
 #   - name: Recodring

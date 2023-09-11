@@ -3,7 +3,7 @@ name: "DNF as a neurral network and interpolant learning"
 speakers:
   - Taisuke Sato
 categories:
-  - Afternoon Session 2
+  - Afternoon Session 2 (day1)
   - Talk
 # links:
 #   - name: Recodring
