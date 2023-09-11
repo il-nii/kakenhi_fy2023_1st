@@ -1,5 +1,5 @@
 ---
-name: "Latent Concept Bottleneck: Gradual Learning and Bottlenecking to Increase Robustness"
+name: "Class-Incremental Learning using Diffusion Model for Distillation and Replay"
 speakers:
   - Yin Jun Phua
 categories:

@@ -1,5 +1,5 @@
 ---
-name: "Supported model computation and unfounded set checking in vector spaces"
+name: "Differentiable solver for Sudoku and Logic Programs under Stable Model Semantics"
 speakers:
   - Akihiro Takemura
 categories:

@@ -1,5 +1,5 @@
 ---
-name: Fanqing Xu
+name: "Network construction via graph neural cellular automata"
 speakers:
   - Fanqing Xu
 categories:

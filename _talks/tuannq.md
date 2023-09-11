@@ -1,5 +1,5 @@
 ---
-name: Computing Stable Models Efficiently in Linear Algebraic Computation
+name: "From stable model condition to learning normal rules in the form of program matrices"
 speakers:
   - Tuan Nguyen
 categories:

@@ -1,5 +1,5 @@
 ---
-name: Graph Neural Networks for SAT Solving
+name: "Discovering Relations between Neural State Variables for Symbolic Regression"
 speakers:
   - Koji Watanabe
 categories:

@@ -1,5 +1,5 @@
 ---
-name: A new feature of T-PRISM and a T-PRISM tutorial on Colaboratory
+name: "Progress report of T-PRISM"
 speakers:
   - Ryosuke Kojima
 categories:

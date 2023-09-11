@@ -1,9 +1,9 @@
 ---
-name: "Interior Semantics for Epistemic/Doxastic Logic"
+name: "Counterfactual explanation from (neuro-)symbolic view "
 speakers:
-  - Satoshi Tojo
+  - Tony Ribeiro
 categories:
-  - Logic and Reasoning
+  - Robust AI by Integration of KR and ML
   - Talk
 # links:
 #   - name: Recodring
@@ -12,3 +12,4 @@ categories:
 #   - name: Wikipedia
 #     absolute_url: https://en.wikipedia.org
 ---
+

@@ -1,5 +1,5 @@
 ---
-name: Towards end-to-end ASP computation
+name: "DNF as a neurral network and interpolant learning"
 speakers:
   - Taisuke Sato
 categories:
