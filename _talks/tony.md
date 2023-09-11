@@ -3,7 +3,7 @@ name: "Counterfactual explanation from (neuro-)symbolic view "
 speakers:
   - Tony Ribeiro
 categories:
-  - Robust AI by Integration of KR and ML
+  - Morning Session
   - Talk
 # links:
 #   - name: Recodring

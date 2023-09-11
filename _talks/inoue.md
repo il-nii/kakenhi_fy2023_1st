@@ -3,7 +3,7 @@ name: On Causal Prevention
 speakers:
   - Katsumi Inoue
 categories:
-  - Robust AI by Integration of KR and ML
+  - Morning Session
   - Talk
 # links:
 #   - name: Recodring
