@@ -1,5 +1,5 @@
 ---
-name: "TBD (Pierre Marquis)"
+name: "When ML gets wrong... KR to the rescue!"
 speakers:
   - Pierre Marquis
 categories:
