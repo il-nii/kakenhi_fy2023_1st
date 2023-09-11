@@ -1,5 +1,5 @@
 ---
-name: Learning Causal Network from Multivariate Time Series for Identifying Differential Equations of Dynamical Systems
+name: Parsimonious Equation Learning with Causality
 speakers:
   - Mitsuhiro Odaka
 categories:

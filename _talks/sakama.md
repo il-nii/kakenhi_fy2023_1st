@@ -1,5 +1,5 @@
 ---
-name: Human Conditional Reasoning in Answer Set Programming
+name: A formal account of Hollis's paradox
 speakers:
   - Chiaki Sakama
 categories:

@@ -1,5 +1,5 @@
 ---
-name: Openning Talk
+name: On Causal Prevention
 speakers:
   - Katsumi Inoue
 categories:
