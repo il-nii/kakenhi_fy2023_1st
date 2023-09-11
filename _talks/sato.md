@@ -3,7 +3,7 @@ name: "DNF as a neurral network and interpolant learning"
 speakers:
   - Taisuke Sato
 categories:
-  - Robust AI by Integration of KR and ML
+  - Afternoon Session 2
   - Talk
 # links:
 #   - name: Recodring

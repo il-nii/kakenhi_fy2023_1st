@@ -157,7 +157,7 @@ conference:
         color: info
       - name: Afternoon Session 2
         color: secondary
-      - name: Learning Programs and Equations from raw data
+      - name: Afternoon Session 1
         color: success
       - name: Integration of Neural Networks and Reasoning
         color: info

@@ -3,7 +3,7 @@ name: "Understanding Symbol Binding in Multimodal Transformers"
 speakers:
   - Alex Spies
 categories:
-  - Learning Programs and Equations from raw data
+  - Afternoon Session 1
   - Talk
 # links:
 #   - name: Recodring
