@@ -3,7 +3,7 @@ name: A formal account of Hollis's paradox
 speakers:
   - Chiaki Sakama
 categories:
-  - Morning Session (day1)
+  - Morning Session (Day1)
   - Talk
 # links:
 #   - name: Recodring

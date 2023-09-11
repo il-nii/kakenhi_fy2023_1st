@@ -149,7 +149,7 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: "Morning Session (day1)"
+      - name: "Morning Session (Day1)"
         color: primary
       - name: Logic and Reasoning
         color: warning

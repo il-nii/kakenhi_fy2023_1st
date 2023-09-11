@@ -3,7 +3,7 @@ name: "Class-Incremental Learning using Diffusion Model for Distillation and Rep
 speakers:
   - Yin Jun Phua
 categories:
-  - Morning Session (day2)
+  - Morning Session (Day2)
   - Talk
 # links:
 #   - name: Recodring

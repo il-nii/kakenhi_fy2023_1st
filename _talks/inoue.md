@@ -3,7 +3,7 @@ name: On Causal Prevention
 speakers:
   - Katsumi Inoue
 categories:
-  - Morning Session (day1)
+  - Morning Session (Day1)
   - Talk
 # links:
 #   - name: Recodring

@@ -3,7 +3,7 @@ name: Opening & Announcements
 # speakers:
 #   - Fanqing Xu
 categories:
-  - Morning Session (day1)
+  - Morning Session (Day1)
 #   - Talk
 # links:
 #   - name: Recodring

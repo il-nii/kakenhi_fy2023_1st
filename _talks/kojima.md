@@ -3,7 +3,7 @@ name: "Progress report of T-PRISM"
 speakers:
   - Ryosuke Kojima
 categories:
-  - Morning Session (day2)
+  - Morning Session (Day2)
   - Talk
 # links:
 #   - name: Recodring

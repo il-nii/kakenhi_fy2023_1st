@@ -3,7 +3,7 @@ name: Parsimonious Equation Learning with Causality
 speakers:
   - Mitsuhiro Odaka
 categories:
-  - Morning Session (day1)
+  - Morning Session (Day1)
   - Talk
 # links:
 #   - name: Recodring
