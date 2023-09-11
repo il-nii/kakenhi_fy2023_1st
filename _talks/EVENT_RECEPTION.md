@@ -4,7 +4,7 @@ name: Reception & Opening
 #   - Fanqing Xu
 categories:
   - Break
-#   - Talk
+# 
 # links:
 #   - name: Recodring
 #     icon: video

@@ -4,7 +4,7 @@ speakers:
   - Teeradaj Racharak
 categories:
   - Night Session
-  - Talk
+
 # links:
 #   - name: Recodring
 #     icon: video

@@ -4,7 +4,7 @@ speakers:
   - Sota Moriyama
 categories:
   - Afternoon Session 2 (Day1)
-  - Talk
+
 # links:
 #   - name: Recodring
 #     icon: video

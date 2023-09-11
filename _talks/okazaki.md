@@ -4,7 +4,7 @@ speakers:
   - Kotaro Okazaki 
 categories:
   - Night Session
-  - Talk
+
 # links:
 #   - name: Recodring
 #     icon: video

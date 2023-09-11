@@ -4,7 +4,7 @@ speakers:
   - Tony Ribeiro
 categories:
   - Morning Session (Day2)
-  - Talk
+
 # links:
 #   - name: Recodring
 #     icon: video

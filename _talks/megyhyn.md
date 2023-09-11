@@ -4,7 +4,7 @@ speakers:
   - Meghyn Bienvenu
 categories:
   - Afternoon Session 1 (Day1)
-  - Talk
+
 # links:
 #   - name: Recodring
 #     icon: video

@@ -4,7 +4,7 @@ speakers:
   - Mitsuhiro Odaka
 categories:
   - Morning Session (Day1)
-  - Talk
+
 # links:
 #   - name: Recodring
 #     icon: video

@@ -4,7 +4,7 @@ name: "Discussion & Closing"
 #   - Fanqing Xu
 categories:
   - Discussion & Closing
-#   - Talk
+# 
 # links:
 #   - name: Recodring
 #     icon: video

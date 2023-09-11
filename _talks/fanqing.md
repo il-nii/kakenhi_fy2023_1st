@@ -3,8 +3,7 @@ name: "Network construction via graph neural cellular automata"
 speakers:
   - Fanqing Xu
 categories:
-  - Afternoon Session (Day2)
-  - Talk
+  - Afternoon Session 1 (Day2)
 # links:
 #   - name: Recodring
 #     icon: video

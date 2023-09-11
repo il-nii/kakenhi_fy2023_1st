@@ -4,7 +4,7 @@ speakers:
   - Masayuki Otani
 categories:
   - Learning Programs and Equations from raw data
-  - Talk
+
 # links:
 #   - name: Recodring
 #     icon: video
