@@ -36,6 +36,9 @@ days:
       - name: "DNF as a neurral network and interpolant learning"
         time_start: '16:00'
         time_end: '16:45'
+      - name: "Differentiable solver for Sudoku and Logic Programs under Stable Model Semantics"
+        time_start: '16:45'
+        time_end: '17:15'
       - name: "From stable model condition to learning normal rules in the form of program matrices"
         time_start: '17:15'
         time_end: '18:00'
@@ -65,7 +68,7 @@ days:
       - name: "TBD (Pierre Marquis)"
         time_start: '15:30'
         time_end: '16:30'
-      - name: "https://twitter.com/refreshing_dai/status/1684557764511793152?s=20"
+      - name: "Discussion & closing"
         time_start: '16:30'
         time_end: '17:00'
 
