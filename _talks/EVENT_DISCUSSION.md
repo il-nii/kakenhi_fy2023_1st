@@ -1,5 +1,5 @@
 ---
-name: Night session - Discussion
+name: Discussion & Closing
 # speakers:
 #   - Fanqing Xu
 categories:
