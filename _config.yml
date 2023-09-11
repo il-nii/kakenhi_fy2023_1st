@@ -150,15 +150,15 @@ conference:
     # Talk categories
     main_categories:
       - name: "Morning Session (Day1)"
-        color: primary
+        color: info
       - name: "Afternoon Session 1 (Day1)"
-        color: success
+        color: primary
       - name: "Afternoon Session 2 (Day1)"
         color: secondary
       - name: "Morning Session (Day2)"
-        color: primary
+        color: info
       - name: "Afternoon Session 1 (Day2)"
-        color: success
+        color: primary
       - name: "Afternoon Session 2 (Day2)"
         color: secondary
     # Hide icons on talk overview page
