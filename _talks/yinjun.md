@@ -1,7 +1,7 @@
 ---
 name: "Class-Incremental Learning using Diffusion Model for Distillation and Replay"
 speakers:
-  - Yin Jun
+  - Yin Jun Phua
 categories:
   - Morning Session (Day2)
 
