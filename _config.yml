@@ -155,14 +155,17 @@ conference:
         color: primary
       - name: "Afternoon Session 2 (Day1)"
         color: secondary
+      - name: "Break"
+        color: light
       - name: "Morning Session (Day2)"
         color: info
       - name: "Afternoon Session 1 (Day2)"
         color: primary
       - name: "Afternoon Session 2 (Day2)"
         color: secondary
-      - name: "Break"
-        color: light
+      - name: "Discussion & Closing"
+        color: warning
+
     # Hide icons on talk overview page
     hide_icons: false
 
