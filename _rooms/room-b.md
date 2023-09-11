@@ -1,4 +1,4 @@
 ---
-name: Friday (March 10th)
+name: Friday (September 15th)
 hide: true
 ---

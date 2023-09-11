@@ -3,7 +3,7 @@ name: Applying ASP Modulo Theories to Inductive Logic Programming
 speakers:
   - Rolf Morel
 categories:
-  - Logic and Computation for the Real World
+  - Afternoon Session #2
   - Talk
 # links:
 #   - name: Recodring

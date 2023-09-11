@@ -1,5 +1,5 @@
 ---
-name: Thursday (March 9th)
+name: Thursday (September 14th)
 hide: true
 ---
 

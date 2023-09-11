@@ -1,10 +1,10 @@
 ---
-name: "Learning Programs by Analyzing Hypothesis Space and Learning Process"
-speakers:
-  - Takeru Isobe
+name: Opening & Announcements
+# speakers:
+#   - Fanqing Xu
 categories:
-  - Afternoon Session #2
-  - Talk
+  - Morning Session
+#   - Talk
 # links:
 #   - name: Recodring
 #     icon: video

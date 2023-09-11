@@ -3,7 +3,7 @@ name: "Multi-Source Transfer Learning using Attention-Based Fusion of Multiple C
 speakers:
   - Sota Moriyama
 categories:
-  - Logic and Computation for the Real World
+  - Afternoon Session #2
   - Talk
 # links:
 #   - name: Recodring
