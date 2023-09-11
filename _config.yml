@@ -151,21 +151,16 @@ conference:
     main_categories:
       - name: "Morning Session (Day1)"
         color: primary
-      - name: Logic and Reasoning
-        color: warning
-      - name: Night Session
-        color: info
-      - name: Afternoon Session 2 (Day1)
-        color: secondary
-      - name: Afternoon Session 1 (Day1)
+      - name: "Afternoon Session 1 (Day1)"
         color: success
-      - name: Integration of Neural Networks and Reasoning
-        color: info
-      - name: Discussion
-        color: alert
-      - name: Break
-        color: light
-
+      - name: "Afternoon Session 2 (Day1)"
+        color: secondary
+      - name: "Morning Session (Day2)"
+        color: primary
+      - name: "Afternoon Session 1 (Day2)"
+        color: secondary
+      - name: "Afternoon Session 2 (Day2)"
+        color: secondary
     # Hide icons on talk overview page
     hide_icons: false
 
