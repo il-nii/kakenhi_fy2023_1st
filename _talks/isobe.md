@@ -3,7 +3,7 @@ name: "Learning Programs by Analyzing Hypothesis Space and Learning Process"
 speakers:
   - Takeru Isobe
 categories:
-  - Afternoon Session #2
+  - Afternoon Session 2
   - Talk
 # links:
 #   - name: Recodring

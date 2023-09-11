@@ -155,7 +155,7 @@ conference:
         color: warning
       - name: Night Session
         color: info
-      - name: Afternoon Session #2
+      - name: Afternoon Session 2
         color: secondary
       - name: Learning Programs and Equations from raw data
         color: success
