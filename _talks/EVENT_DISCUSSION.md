@@ -3,7 +3,7 @@ name: "Discussion & Closing"
 # speakers:
 #   - Fanqing Xu
 categories:
-  - Break
+  - Discussion & Closing
 #   - Talk
 # links:
 #   - name: Recodring
