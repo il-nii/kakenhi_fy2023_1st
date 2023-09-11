@@ -1,9 +1,9 @@
 ---
-name: "BeliefFlow: a Framework for Logic-Based Belief Diffusion via Iterated Belief Change"
+name: "Preference-based Repairs of Databases and Knowledge Bases"
 speakers:
-  - Nicolas Schwind
+  - Meghyn Bienvenu
 categories:
-  - Logic and Computation for the Real World
+  - Learning Programs and Equations from raw data
   - Talk
 # links:
 #   - name: Recodring

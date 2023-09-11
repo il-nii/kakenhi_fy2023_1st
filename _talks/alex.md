@@ -1,9 +1,9 @@
 ---
-name: "BeliefFlow: a Framework for Logic-Based Belief Diffusion via Iterated Belief Change"
+name: "Understanding Symbol Binding in Multimodal Transformers"
 speakers:
-  - Nicolas Schwind
+  - Alex Spies
 categories:
-  - Logic and Computation for the Real World
+  - Learning Programs and Equations from raw data
   - Talk
 # links:
 #   - name: Recodring

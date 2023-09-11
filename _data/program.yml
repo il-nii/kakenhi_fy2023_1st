@@ -27,7 +27,7 @@ days:
       - name: "Understanding Symbol Binding in Multimodal Transformers"
         time_start: '14:30'
         time_end: '15:15'
-      - name: "a Framework for Logic-Based Belief Diffusion via Iterated Belief Change"
+      - name: "BeliefFlow: a Framework for Logic-Based Belief Diffusion via Iterated Belief Change"
         time_start: '15:15'
         time_end: '15:45'
       - name: "Break"
