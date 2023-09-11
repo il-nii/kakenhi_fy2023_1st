@@ -1,5 +1,5 @@
 ---
-name: Discussion & Closing
+name: "Discussion & Closing"
 # speakers:
 #   - Fanqing Xu
 categories:
