@@ -2,16 +2,16 @@ days:
 
 - name: Thursday
   abbr: Thu
-  date: 2023-03-09
+  date: 2023-09-14
   rooms:
-  - name: Thursday (March 9th)
+  - name: Thursday (September 14th)
     talks:
-      - name: Reception & Opening
-        time_start: '14:30'
-        time_end: '15:00'
+      - name: "Opening & Announcements"
+        time_start: '10:00'
+        time_end: '10:20'
       - name: Openning Talk
-        time_start: '15:00'
-        time_end: '15:20'
+        time_start: '10:20'
+        time_end: '10:45'
       - name: Towards end-to-end ASP computation
         time_start: '15:20'
         time_end: '16:20'
@@ -36,7 +36,7 @@ days:
       - name: Discussion
         time_start: '21:00'
         time_end: '22:00'
-  - name: Friday (March 10th)
+  - name: Friday (September 15th)
     talks:
       - name: Reception & Opening
         time_start: '8:30'
