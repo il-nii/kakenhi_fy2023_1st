@@ -155,9 +155,9 @@ conference:
         color: warning
       - name: Night Session
         color: info
-      - name: Afternoon Session 2 (day1)
+      - name: Afternoon Session 2 (Day1)
         color: secondary
-      - name: Afternoon Session 1 (day1)
+      - name: Afternoon Session 1 (Day1)
         color: success
       - name: Integration of Neural Networks and Reasoning
         color: info

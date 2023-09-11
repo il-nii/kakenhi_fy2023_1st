@@ -3,7 +3,7 @@ name: "From stable model condition to learning normal rules in the form of progr
 speakers:
   - Tuan Nguyen
 categories:
-  - Afternoon Session 2 (day1)
+  - Afternoon Session 2 (Day1)
   - Talk
 # links:
 #   - name: Recodring

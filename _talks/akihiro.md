@@ -3,7 +3,7 @@ name: "Differentiable solver for Sudoku and Logic Programs under Stable Model Se
 speakers:
   - Akihiro Takemura
 categories:
-  - Afternoon Session 2 (day1)
+  - Afternoon Session 2 (Day1)
   - Talk
 # links:
 #   - name: Recodring

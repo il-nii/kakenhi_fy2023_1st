@@ -3,7 +3,7 @@ name: "Discovering Relations between Neural State Variables for Symbolic Regress
 speakers:
   - Koji Watanabe
 categories:
-  - Integration of Neural Networks and Reasoning
+  - Afternoon Session (Day2)
   - Talk
 # links:
 #   - name: Recodring

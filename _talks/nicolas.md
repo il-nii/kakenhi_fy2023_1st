@@ -3,7 +3,7 @@ name: "BeliefFlow: a Framework for Logic-Based Belief Diffusion via Iterated Bel
 speakers:
   - Nicolas Schwind
 categories:
-  - Afternoon Session 1 (day1)
+  - Afternoon Session 1 (Day1)
   - Talk
 # links:
 #   - name: Recodring

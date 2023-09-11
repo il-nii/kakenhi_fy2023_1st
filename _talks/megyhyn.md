@@ -3,7 +3,7 @@ name: "Preference-based Repairs of Databases and Knowledge Bases"
 speakers:
   - Meghyn Bienvenu
 categories:
-  - Afternoon Session 1 (day1)
+  - Afternoon Session 1 (Day1)
   - Talk
 # links:
 #   - name: Recodring

@@ -3,7 +3,7 @@ name: "Network construction via graph neural cellular automata"
 speakers:
   - Fanqing Xu
 categories:
-  - Integration of Neural Networks and Reasoning
+  - Afternoon Session (Day2)
   - Talk
 # links:
 #   - name: Recodring

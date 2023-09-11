@@ -3,7 +3,7 @@ name: "Counterfactual explanation from (neuro-)symbolic view"
 speakers:
   - Tony Ribeiro
 categories:
-  - Morning Session (day1)
+  - Morning Session (day2)
   - Talk
 # links:
 #   - name: Recodring

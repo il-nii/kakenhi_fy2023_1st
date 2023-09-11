@@ -3,7 +3,7 @@ name: "Progress report of T-PRISM"
 speakers:
   - Ryosuke Kojima
 categories:
-  - Integration of Neural Networks and Reasoning
+  - Morning Session (day2)
   - Talk
 # links:
 #   - name: Recodring
