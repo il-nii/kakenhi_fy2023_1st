@@ -4,7 +4,7 @@ layout: location
 
 <!-- How to get to the conference -->
 
-The event will take place in Odaiba, Tokyo at [AIST Tokyo Waterfront Annex building, Tokyo](https://goo.gl/maps/Fa35PNVFmjaun7dN7).
+The event will take place in Odaiba, Tokyo at [AIST Tokyo Waterfront Annex building, Tokyo](https://goo.gl/maps/3eZAFPuV4gk2t13n9).
 
 We suggest taking the Yurikamome Line to Telecom Center Station, which is a mere 5-minute walk away.
 
