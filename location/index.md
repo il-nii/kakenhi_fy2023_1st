@@ -12,6 +12,7 @@ Alternatively, you may also consider taking the Rinkai Line to Tokyo Teleport St
 
 ### Lunch
 ・[Gonpachi Odaiba](https://goo.gl/maps/d8EUMR3RXtkQY51S8)
+
 ・[Ramen Street](https://www.aquacity.jp/trk_mai/)
 
 ### Cofee Break
